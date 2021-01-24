@@ -11,4 +11,4 @@
 </p>
 
 <h3>Stat's</h3>
-![My Github Stat](https://github-readme-stats.vercel.app/api?username=TheAshydra&show_icons=true&theme=radical)
+[w](https://github-readme-stats.vercel.app/api?username=TheAshydra&show_icons=true&theme=radical)
