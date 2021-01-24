@@ -1,6 +1,7 @@
 ### Hi there 👋
-## About me
-- Hello , I'm a ashydra , I'm 16 years old . My hobbies; Developing full stack project and playing video games .
+- Hello , I'm a ashydra , I'm 16 years old.
+### My hobbies
+ Developing full stack projects and Playing video games
 <h3>Language's</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
