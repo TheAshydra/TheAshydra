@@ -10,4 +10,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
 </p>
 
-[](https://github-readme-stats.vercel.app/api?username=TheAshydra&show_icons=true&theme=radical)
+[My stat's](https://github-readme-stats.vercel.app/api?username=TheAshydra&show_icons=true&theme=radical)
