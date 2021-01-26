@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Hello , I'm a ashydra , I'm 16 years old.
+- Hello , I'm a ashydra!
 ### My hobbies
  Developing full stack projects and Playing video games
 <h3>Language's</h3>
